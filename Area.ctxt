@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Area
+comment1.params=
+comment1.target=Area()
+comment2.params=gridSize
+comment2.target=Area(int)
+comment3.params=
+comment3.target=double[]\ randomColor()
+comment4.params=species\ loc
+comment4.target=double\ getTrailValue(int,\ Pair)
+comment5.params=p
+comment5.target=void\ updateParticle(Particle)
+comment6.params=
+comment6.target=void\ step()
+comment7.params=
+comment7.target=void\ draw()
+numComments=8

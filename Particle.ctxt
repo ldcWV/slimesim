@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Particle
+comment1.params=
+comment1.target=Particle()
+comment2.params=x\ y
+comment2.target=Particle(double,\ double)
+comment3.params=x\ y\ angle\ vel
+comment3.target=Particle(double,\ double,\ double,\ double)
+comment4.params=
+comment4.target=double\ vx()
+comment5.params=
+comment5.target=double\ vy()
+comment6.params=
+comment6.target=Pair\ leftSensor()
+comment7.params=
+comment7.target=Pair\ rightSensor()
+comment8.params=
+comment8.target=Pair\ midSensor()
+numComments=9
